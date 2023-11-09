@@ -1,8 +1,15 @@
 import React from 'react';
 
 function App() {
-  const value = 'World';
-  return <div>Hello {value}</div>;
+  return (
+
+    <div className="App">
+      <h1>React App</h1>
+      <input type="text" />
+      <button>Analizar imágen</button>
+      <button>Generar imágen</button>
+    </div>
+  )
 }
 
 export default App;
