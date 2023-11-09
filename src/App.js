@@ -4,7 +4,7 @@ function App() {
   return (
 
     <div className="App">
-      <h1>React App</h1>
+      <h1>Analizador de imágenes</h1>
       <input type="text" />
       <button>Analizar imágen</button>
       <button>Generar imágen</button>
